@@ -8,6 +8,8 @@ The **current** version of this project is licensed under [MIT].
 
 ## Relevant documents
 
+[![Join the chat at https://gitter.im/Codeaches/spring-boot-kafka-examples](https://badges.gitter.im/Codeaches/spring-boot-kafka-examples.svg)](https://gitter.im/Codeaches/spring-boot-kafka-examples?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - The tutorial related to this project can be found on [Codeaches Website]
 - This project is built using OpenJDK 12 
 
